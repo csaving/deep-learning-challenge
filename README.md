@@ -28,7 +28,8 @@
 ## Results
 
 * Machine Learning Model - Original:
-	![original model](Images/original_params.png)
+    * Original model with 2 hidden layers.
+	* ![original model](Images/original_params.png)
     * Loss: 0.5572, Accuracy: 0.7318
 
 * Machine Learning Model - Optimization Trial 1:
